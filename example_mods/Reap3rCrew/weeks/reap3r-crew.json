@@ -1,0 +1,81 @@
+{
+  "songs": [
+    [
+      "Creo que va a llover",
+      "bf",
+      [
+        100,
+        170,
+        255
+      ]
+    ],
+    [
+      "La calaverita phonk no es un juego",
+      "bf",
+      [
+        180,
+        90,
+        220
+      ]
+    ],
+    [
+      "Bassed friend",
+      "bf",
+      [
+        80,
+        200,
+        150
+      ]
+    ],
+    [
+      "Explosive",
+      "bf",
+      [
+        255,
+        115,
+        50
+      ]
+    ],
+    [
+      "All vs One",
+      "bf",
+      [
+        210,
+        55,
+        70
+      ]
+    ],
+    [
+      "i think i heard something",
+      "bf",
+      [
+        100,
+        100,
+        180
+      ]
+    ],
+    [
+      "Esta atras mio cierto?",
+      "bf",
+      [
+        80,
+        180,
+        180
+      ]
+    ]
+  ],
+  "weekCharacters": [
+    "bf",
+    "bf",
+    "gf"
+  ],
+  "weekBackground": "stage",
+  "storyName": "Reap3r Crew",
+  "weekBefore": "",
+  "weekName": "Reap3r Crew",
+  "startUnlocked": true,
+  "hiddenUntilUnlocked": false,
+  "hideStoryMode": true,
+  "hideFreeplay": false,
+  "difficulties": ""
+}

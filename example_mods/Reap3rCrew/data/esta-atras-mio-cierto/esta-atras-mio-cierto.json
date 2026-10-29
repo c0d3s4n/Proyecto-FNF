@@ -1,0 +1,122 @@
+{
+  "song": {
+    "song": "Esta atras mio cierto?",
+    "notes": [
+      {
+        "sectionNotes": [
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            500,
+            1,
+            0
+          ],
+          [
+            1000,
+            2,
+            0
+          ],
+          [
+            1500,
+            3,
+            0
+          ]
+        ],
+        "mustHitSection": true,
+        "sectionBeats": 4
+      },
+      {
+        "sectionNotes": [
+          [
+            2000,
+            4,
+            0
+          ],
+          [
+            2500,
+            5,
+            0
+          ],
+          [
+            3000,
+            6,
+            0
+          ],
+          [
+            3500,
+            7,
+            0
+          ]
+        ],
+        "mustHitSection": false,
+        "sectionBeats": 4
+      },
+      {
+        "sectionNotes": [
+          [
+            4000,
+            3,
+            0
+          ],
+          [
+            4500,
+            2,
+            0
+          ],
+          [
+            5000,
+            1,
+            0
+          ],
+          [
+            5500,
+            0,
+            0
+          ]
+        ],
+        "mustHitSection": true,
+        "sectionBeats": 4
+      },
+      {
+        "sectionNotes": [
+          [
+            6000,
+            7,
+            0
+          ],
+          [
+            6500,
+            6,
+            0
+          ],
+          [
+            7000,
+            5,
+            0
+          ],
+          [
+            7500,
+            4,
+            0
+          ]
+        ],
+        "mustHitSection": false,
+        "sectionBeats": 4
+      }
+    ],
+    "events": [],
+    "bpm": 120,
+    "speed": 1,
+    "needsVoices": false,
+    "player1": "bf",
+    "player2": "dad",
+    "gfVersion": "gf",
+    "stage": "stage",
+    "arrowSkin": "",
+    "splashSkin": "",
+    "validScore": false
+  }
+}
